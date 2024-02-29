@@ -1,0 +1,30 @@
+.card-item {
+  width: 18rem !important;
+  /* width: 100%; */
+  margin-top: 80px;
+  height: 100% !important;
+  box-shadow: 0px 0px 5px rgba(34, 34, 34, 0.3);
+  cursor: pointer;
+}
+.card-detail {
+  padding: 10px 0px 0px 20px !important;
+}
+
+.card-img-top {
+  height: 45% !important;
+  transition: transform 0.5s ease-in-out;
+}
+.card-img-top:hover {
+  transform: scale(1.03);
+}
+.card-price {
+  font-weight: 600;
+}
+
+/* card button */
+.add-to-cart {
+  padding: 10px 30px;
+  border: none;
+  font-size: 1rem;
+  margin-top: 10px;
+}

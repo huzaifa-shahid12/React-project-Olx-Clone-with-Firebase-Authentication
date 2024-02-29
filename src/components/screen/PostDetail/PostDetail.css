@@ -1,0 +1,151 @@
+.post-div {
+  border: 1px solid rgb(183, 180, 180);
+  height: 138vh;
+  width: 90%;
+  margin: 50px 0;
+  border-radius: 10px;
+}
+.edit-profile {
+  margin: 20px;
+  border-bottom: 0.1rem solid rgba(0, 47, 52, 0.2);
+}
+.edit-profile h1 {
+  margin: 30px;
+  font-size: 1.4rem;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+p {
+  color: #002f34;
+}
+
+.profile h5 {
+  margin: 10px 0 0 30px;
+  font-size: 1rem;
+  font-weight: 600;
+}
+.profile-div {
+   margin: 20px;
+  border-bottom: 0.1rem solid rgba(0, 47, 52, 0.2);
+}
+.profile-image img {
+  width: 100px;
+  border-radius: 50%;
+  height: 80%;
+}
+.f8e3a194 input {
+  display: none;
+}
+.upload label {
+  padding: 15px;
+  background-color: #002f34;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+.image {
+  margin-top: 8px;
+  font-size: 0.8rem;
+}
+.post-detail {
+  margin: 0 0 0 20px;
+  color:  #002f34;
+}
+.name-input input {
+  margin-top: 10px;
+  width: 40%;
+  padding: 12px 0;
+  padding-left: 10px;
+}
+.age-input input {
+  margin-top: 10px;
+  width: 40%;
+  padding: 12px 0;
+  padding-left: 10px;
+}
+.email-input input {
+  margin-top: 10px;
+  width: 40%;
+  padding: 12px 0;
+  padding-left: 10px;
+}
+.about-input textarea {
+  width: 380px;
+  height: 140px;
+  resize: none;
+  padding: 10px;
+}
+.post-main {
+   margin: 20px;
+  border-bottom: 0.1rem solid rgba(0, 47, 52, 0.2);
+}
+.discard {
+  text-decoration: underline;
+}
+.discard a {
+  margin-left: 20px;
+  color: #9b9b9b;
+  font-size: 1rem;
+  cursor: pointer;
+  font-weight: 600;
+}
+.save {
+  margin-right: 10px;
+}
+.save button {
+  float: right;
+  padding: 15px;
+  background-color: #002f34;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.Delete {
+  border: 1px solid #9b9b9b;
+  height: 38vh;
+  width: 90%;
+  margin-bottom: 50px;
+  border-radius: 10px;
+}
+.delete-account {
+  margin: 20px;
+  font-size: 1rem;
+  border-bottom: 0.1rem solid rgba(0, 47, 52, 0.2);
+}
+.warning {
+  margin-left: 20px;
+}
+.warning p {
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+.warning button {
+  color: #002f34;
+  fill: #002f34;
+  background-color: #fff;
+  height: 50px;
+  border: 0.2rem solid #002f34;
+  padding: 10px 10px 10px 10px;
+  font-size: 1.1rem;
+  border-radius: 5px;
+  width: 300px;
+  font-weight: 500;
+}
+.warning button:hover {
+  border: 4px solid black;
+}
+.warning h6 {
+  margin-top: 20px;
+  text-decoration: underline;
+}

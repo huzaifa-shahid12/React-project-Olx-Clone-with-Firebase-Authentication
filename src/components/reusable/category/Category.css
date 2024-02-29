@@ -1,0 +1,28 @@
+.category-img {
+    margin-top: 350px;
+}
+.category-content h3{
+    font-family: "popins", sans-serif;
+    font-weight: 600;
+}
+.img img{
+    width: 90px;
+    transition: 2s ease-in-out;
+}
+.img img:hover{
+    cursor: pointer;
+}
+.img h4{
+    font-size: 18px;
+    margin: 5px 10px;
+    font-weight: 700;
+}
+#h4{
+    width: 120px;
+}
+.div{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    margin-left: 20px;
+}
